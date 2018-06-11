@@ -1,0 +1,30 @@
+@import "https://fonts.googleapis.com/css?family=Acme";
+@import "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css";
+
+html {
+   font-size: 16px;
+}
+header>nav { display:inline-block;
+   width: 60%;
+   
+   }
+   h1{ font-size: 3em
+
+   }
+   li{
+      padding: 14px;
+      font-size: 2em;
+   }
+
+
+body{
+   
+   
+   color:navy;
+   background:green;
+   
+
+}
+nav>ul{
+   list-style:none;
+}
